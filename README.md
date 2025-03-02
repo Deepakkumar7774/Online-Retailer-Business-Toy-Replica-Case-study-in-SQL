@@ -8,20 +8,32 @@ Welcome to my SQL Data Analysis Case Study! 🚀 This project focuses on analyzi
 
 **The study involves:**
 
+
 Data Cleaning & Transformation 🧹
+
 Query Optimization 🏎️
+
 Data Aggregation & Analysis 📊
+
 Business Insights Generation 🔍
+
 By executing SQL queries on a structured dataset, this project extracts valuable insights that can help businesses understand customer behavior, employee preferences, financial trends, and operational efficiencies.
+
 
 
 **🎯 Project Objectives:**
 
+
 This project is designed to: ✅ Perform data cleaning - Handle missing values, remove duplicates, and standardize data.
+
 ✅ Analyze patterns and trends - Identify meaningful correlations and distributions.
+
 ✅ Use SQL functions effectively - Implement JOINS, CTEs, Subqueries, Window Functions, and Aggregations.
+
 ✅ Generate key business insights - Provide actionable recommendations based on data.
+
 ✅ Enhance SQL proficiency - Improve query writing and optimization skills.
+
 
 
 **🏛️ Tech Stack & Tools:**
@@ -38,6 +50,7 @@ SQL Concepts Covered:
 🔹 Subqueries & Nested Queries
 🔹 Data Cleaning & Transformation
 🔹 Aggregate Functions (SUM, AVG, COUNT, MAX, MIN)
+
 
 
 **🔗 Key Sections of the Report:**
@@ -57,6 +70,7 @@ This project also includes visual representations of the analyzed data.
 Salary trends over the years 📉
 Work-life balance analysis 📊
 Employee preferences by industry 🏢
+
 
 
 **🏆 Skills Gained:**
