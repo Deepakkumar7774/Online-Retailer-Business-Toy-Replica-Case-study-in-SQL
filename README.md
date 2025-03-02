@@ -76,17 +76,7 @@ productlines 🏭 (Broad product categories)
 **📌 Entity Relationship Diagram (ERD):**
 
 Here is the file:
-[Gen Z - Data Analysis in MySQL workbench.sql](https://raw.githubusercontent.com/deepak-kumar/genz-career-analysis/main/Gen%20Z%20-%20Data%20Analysis%20in%20MySQL%20workbench.sql)
-
-(Generated from your uploaded Company_ERD_Diagram.mwb file)
-
-
-
-🖼️ To view the ERD in MySQL Workbench:
-1️⃣ Open MySQL Workbench
-2️⃣ Navigate to File → Open Model
-3️⃣ Select the Company_ERD_Diagram.mwb file
-4️⃣ View and modify relationships between tables
+[Company_ERD_Diagram.mwb](https://raw.githubusercontent.com/deepak-kumar/Online-Retailer-Business-Toy-Replica-Case-study-in-SQL/blob/main/Company_ERD_Diagram.mwb)
 
 
 
