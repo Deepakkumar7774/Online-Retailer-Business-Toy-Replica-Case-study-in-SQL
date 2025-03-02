@@ -1,13 +1,17 @@
 **📊 SQL Data Analysis Project – Toylica Online Retail Case Study**
 
 
+
 **📌 Overview**
+
 
 This SQL project focuses on analyzing the operations of an online retail business, specifically a company called Toylica, which manufactures and sells toy replicas globally. The goal is to leverage SQL to extract meaningful insights from customer orders, payments, employees, and product sales data to improve business decision-making.
 
 
 
+
 **Through this case study, we will:**
+
 
 Understand the role of databases and DBMS in business operations.
 
@@ -17,7 +21,9 @@ Use SQL to analyze real-world business data, including customer transactions, em
 
 
 
+
 **🎯 Project Objectives:**
+
 
 This project is designed to: ✅ Perform SQL-based data analysis for an e-commerce business.
 
@@ -37,7 +43,9 @@ This project is designed to: ✅ Perform SQL-based data analysis for an e-commer
 
 **📌 ERD Diagram (Entity Relationship Model)**
 
+
 The database consists of eight interrelated tables, categorized into three sections:
+
 
 **👥 Employee Section**
 
@@ -64,6 +72,7 @@ products 📦 (Product information and availability)
 productlines 🏭 (Broad product categories)
 
 
+
 **📌 Entity Relationship Diagram (ERD):**
 
 (Generated from your uploaded Company_ERD_Diagram.mwb file)
@@ -78,6 +87,7 @@ productlines 🏭 (Broad product categories)
 
 
 **🏛️ Database Schema**
+
 
 The database consists of eight interrelated tables, categorized as follows:
 
@@ -130,6 +140,7 @@ This project uses the following technologies:
 
 
 **Database Management Systems (DBMS):**
+
 
 🐘 PostgreSQL / 🐬 MySQL / 💾 SQL Server
 
