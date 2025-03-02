@@ -173,8 +173,19 @@ This project uses the following technologies:
 
 
 
-**📂 File Name: Casestudy.pdf
-               Solution.pdf**             (Available in the repository)
+**📂 File Name:**
+
+**Casestudy.pdf**
+
+Here is the file:
+[Casestudy.pdf](https://github.com/Deepakkumar7774/Online-Retailer-Business-Toy-Replica-Case-study-in-SQL/blob/main/Casestudy.pdf)
+
+
+**Solution.pdf**
+
+Here is the file:
+[Solution.pdf](https://github.com/Deepakkumar7774/Online-Retailer-Business-Toy-Replica-Case-study-in-SQL/blob/main/Solution.pdf)
+
 
 
 
