@@ -92,7 +92,8 @@ The database consists of eight interrelated tables, categorized as follows:
 - employees 🏢: Stores employee details with employeeNumber as the primary key.
 
 - offices 📍: Stores office locations, linked to employees via officeCode.
-- 
+
+  
 📂 Customer Section
 
 - customers 🛍️: Contains customer details (customerNumber as the primary key).
@@ -102,6 +103,7 @@ The database consists of eight interrelated tables, categorized as follows:
 - orderdetails 📜: Provides details of each order (orderNumber and productCode as a composite primary key).
   
 - payments 💳: Tracks customer payments (checkNumber as the primary key).
+
   
 📂 Product Section
 
