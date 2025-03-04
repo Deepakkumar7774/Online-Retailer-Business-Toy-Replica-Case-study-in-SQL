@@ -76,7 +76,7 @@ productlines 🏭 (Broad product categories)
 **📌 Entity Relationship Diagram (ERD):**
 
 Here is the file:
-[Company_ERD_Diagram.mwb](https://raw.githubusercontent.com/deepak-kumar/Online-Retailer-Business-Toy-Replica-Case-study-in-SQL/blob/main/Company_ERD_Diagram.mwb)
+[Company_ERD_Diagram.mwb](https://github.com/Deepakkumar7774/Online-Retailer-Business-Toy-Replica-Case-study-in-SQL/blob/main/Company_ERD_Diagram.mwb)
 
 
 
