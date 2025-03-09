@@ -215,5 +215,5 @@ For any queries, feel free to reach out:
 
 📧 deepakkumarsingh7774@gmail.com
 
-🔗 LinkedIn (Update with your actual LinkedIn URL)
+🔗 LinkedIn: [deepakkumar7774](https://www.linkedin.com/in/deepakkumar7774)
 
