@@ -186,7 +186,7 @@ Here is the file:
 **Solution.pdf**
 
 Here is the file:
-[Solution.pdf](https://github.com/Deepakkumar7774/Online-Retailer-Business-Toy-Replica-Case-study-in-SQL/blob/main/Solution.pdf)
+[solution.pdf](https://github.com/Deepakkumar7774/Online-Retailer-Business-Toy-Replica-Case-study-in-SQL/blob/main/solution.pdf)
 
 
 **🏆 Skills Gained**
